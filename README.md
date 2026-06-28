@@ -1,1 +1,0 @@
-*blog is coming up~
