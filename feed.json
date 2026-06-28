@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yuriの部落格",
+    "description": "",
+    "home_page_url": "https://sasas2.github.io/web_eternal",
+    "feed_url": "https://sasas2.github.io/web_eternal/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yuri"
+    },
+    "items": [
+    ]
+}
