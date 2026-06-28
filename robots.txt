@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sasas2.github.io/web_eternal/sitemap.xml
